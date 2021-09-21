@@ -13,3 +13,7 @@
 
 
 ### 4. repository to teach myself
+
+
+### 5. AWS document
+[https://docs.aws.amazon.com/](https://docs.aws.amazon.com/)
