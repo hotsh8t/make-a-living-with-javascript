@@ -17,3 +17,7 @@
 
 ### 5. AWS document
 [https://docs.aws.amazon.com/](https://docs.aws.amazon.com/)
+
+
+### 6. AWS serverless
+[serverless-stack.com](serverless-stack.com)
