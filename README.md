@@ -20,4 +20,4 @@
 
 
 ### 6. AWS serverless
-[serverless-stack.com](serverless-stack.com)
+[serverless-stack.com](https://serverless-stack.com)
